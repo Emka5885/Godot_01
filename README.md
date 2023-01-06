@@ -4,6 +4,16 @@
 
 Game created based on a tutorial from the [YouTube](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a&index=1&ab_channel=HeartBeast) platform
 
+<h2></h2>
+<h3>Controls :keyboard:</h3>
+
+- `WSDA` or `Arrow keys` to move
+- `J` or `X` to attack
+- `K` or `Z` to roll
+
+<h2></h2>
+<h3>Screenshots :camera:</h3>
+
 ![Game Folder](./readme/image_02.jpg)
 
 <h2></h2>
